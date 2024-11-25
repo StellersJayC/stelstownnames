@@ -1,0 +1,133 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Anak's Eyrie
+    probability: 1
+  - name: Haven
+    probability: 1
+  - name: Aspen Vale
+    probability: 1
+  - name: Balor's Needle
+    probability: 1
+  - name: Bay Cove
+    probability: 1
+  - name: Bearsford
+    probability: 1
+  - name: Black City
+    probability: 1
+  - name: Bloody Hawk
+    probability: 1
+  - name: Blue Harbor
+    probability: 1
+  - name: Cavall
+    probability: 1
+  - name: Cesspool
+    probability: 1
+  - name: City of the Gods
+    probability: 1
+  - name: Corus
+    probability: 1
+  - name: Coastal Way
+    probability: 1
+  - name: The Common
+    probability: 1
+  - name: Convent
+    probability: 1
+  - name: Dancing Dove
+    probability: 1
+  - name: Daymarket
+    probability: 1
+  - name: Deep Harbor District
+    probability: 1
+  - name: Disart
+    probability: 1
+  - name: Deep Water District
+    probability: 1
+  - name: Dowling Falls
+    probability: 1
+  - name: Dunlath
+    probability: 1
+  - name: Eldorne
+    probability: 1
+  - name: Execution Hill
+    probability: 1
+  - name: Fenrigh
+    probability: 1
+  - name: Flash District
+    probability: 1
+  - name: Fog Lantern
+    probability: 1
+  - name: Fort Drell
+    probability: 1
+  - name: Fort Giantkiller
+    probability: 1
+  - name: Fort Mastiff
+    probability: 1
+  - name: Fort Steadfast
+    probability: 1
+  - name: Fortress Wei
+    probability: 1
+  - name: Frasrlund
+    probability: 1
+  - name: Gauntlet District
+    probability: 1
+  - name: Genlith
+    probability: 1
+  - name: Glassman Square
+    probability: 1
+  - name: Goatstrack
+    probability: 1
+  - name: Goldenlake
+    probability: 1
+  - name: Greenfields District
+    probability: 1
+  - name: Hall of Crowns
+    probability: 1
+  - name: Halleburn
+    probability: 1
+  - name: Hannalof
+    probability: 1
+  - name: Haresfield
+    probability: 1
+  - name: Harmony Way
+    probability: 1
+  - name: Haryse
+    probability: 1
+  - name: Highfields District
+    probability: 1
+  - name: Irontown
+    probability: 1
+  - name: Jack and Pasty
+    probability: 1
+  - name: Jane Street Kennel
+    probability: 1
+  - name: Jesslaw
+    probability: 1
+  - name: Kennan
+    probability: 1
+  - name: King's Reach
+    probability: 1
+  - name: Kings Town District
+    probability: 1
+  - name: Ladyslipper District
+    probability: 1
+  - name: Lengley Castle
+    probability: 1
+  - name: Long Lake
+    probability: 1
+  - name: Lowdown District
+    probability: 1
+  - name: Lower City
+    probability: 1
+  - name: Arenaver
+    probability: 1
+  - name: Babet
+    probability: 1
+  - name: Barrel's Bottom
+    probability: 1
+  - name: Bis' Bakery
+    probability: 1
+name: Tortall Names
+source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
+subsets: []
