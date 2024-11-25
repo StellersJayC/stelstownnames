@@ -1,0 +1,685 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Markarth
+    probability: 1
+  - name: Understone Keep
+    probability: 1
+  - name: Riften
+    probability: 1
+  - name: Mistveil Keep
+    probability: 1
+  - name: Thieves Guild
+    probability: 1
+  - name: Solitude
+    probability: 1
+  - name: Blue Palace
+    probability: 1
+  - name: Whiterun
+    probability: 1
+  - name: Dragonsreach
+    probability: 1
+  - name: Windhelm
+    probability: 1
+  - name: Palace of the Kings
+    probability: 1
+  - name: Dawnstar
+    probability: 1
+  - name: Falkreath
+    probability: 1
+  - name: Morthal
+    probability: 1
+  - name: Raven Rock
+    probability: 1
+  - name: Winterhold
+    probability: 1
+  - name: Dragon Bridge
+    probability: 1
+  - name: Helgen
+    probability: 1
+  - name: Ivarstead
+    probability: 1
+  - name: Karthwasten
+    probability: 1
+  - name: Riverwood
+    probability: 1
+  - name: Rorikstead
+    probability: 1
+  - name: Shor's Stone
+    probability: 1
+  - name: Skaal Village
+    probability: 1
+  - name: Heljarchen Hall
+    probability: 1
+  - name: Lakeview Manor
+    probability: 1
+  - name: Tundra Homestead
+    probability: 1
+  - name: Windstad Manor
+    probability: 1
+  - name: Black-Briar Lodge
+    probability: 1
+  - name: Dark Brotherhood Sanctuary
+    probability: 1
+  - name: Darkwater Crossing
+    probability: 1
+  - name: Dawnstar Sanctuary
+    probability: 1
+  - name: Goldenglow Estate
+    probability: 1
+  - name: High Hrothgar
+    probability: 1
+  - name: Honningbrew Meadery
+    probability: 1
+  - name: Japhet's Folly
+    probability: 1
+  - name: Kolskeggr Mine
+    probability: 1
+  - name: Kynesgrove
+    probability: 1
+  - name: Left Hand Mine
+    probability: 1
+  - name: Nightgate Inn
+    probability: 1
+  - name: Old Hroldan Inn
+    probability: 1
+  - name: Soljund's Sinkhole
+    probability: 1
+  - name: Stonehills
+    probability: 1
+  - name: Tel Mithryn
+    probability: 1
+  - name: Thalmor Embassy
+    probability: 1
+  - name: Thirsk Mead Hall
+    probability: 1
+  - name: Whistling Mine
+    probability: 1
+  - name: Dushnikh Yal
+    probability: 1
+  - name: Largashbur
+    probability: 1
+  - name: Mor Khazgur
+    probability: 1
+  - name: Narzulbur
+    probability: 1
+  - name: Brandy-Mug Farm
+    probability: 1
+  - name: Corpselight Farm
+    probability: 1
+  - name: Cowflop Farmhouse
+    probability: 1
+  - name: Fellstar Farm
+    probability: 1
+  - name: Goldenhills Plantation
+    probability: 1
+  - name: Hlaalu Farm
+    probability: 1
+  - name: Hollyfrost Farm
+    probability: 1
+  - name: Katla's Farm
+    probability: 1
+  - name: Lemkil's Farmhouse
+    probability: 1
+  - name: Lylvieve Family's House
+    probability: 1
+  - name: Merryfair Farm
+    probability: 1
+  - name: Old Attius Farm
+    probability: 1
+  - name: Battle-Born Farm
+    probability: 1
+  - name: Chillfurrow Farm
+    probability: 1
+  - name: Loreius Farm
+    probability: 1
+  - name: Pelagia Farm
+    probability: 1
+  - name: Salvius Farm
+    probability: 1
+  - name: Sarethi Farm
+    probability: 1
+  - name: Snow-Shod Farm
+    probability: 1
+  - name: Anga's Mill
+    probability: 1
+  - name: Dragon Bridge
+    probability: 1
+  - name: Dragon Bridge Lumber Camp
+    probability: 1
+  - name: Half-Moon Mill
+    probability: 1
+  - name: Heartwood Mill
+    probability: 1
+  - name: Mixwater Mill
+    probability: 1
+  - name: Solitude Sawmill
+    probability: 1
+  - name: Abandoned Lodge
+    probability: 1
+  - name: Abandoned Shack
+    probability: 1
+  - name: Alchemist's Shack
+    probability: 1
+  - name: Angi's Camp
+    probability: 1
+  - name: Anise's Cabin
+    probability: 1
+  - name: Cliffside Retreat
+    probability: 1
+  - name: Crabber's Shanty
+    probability: 1
+  - name: Drelas' Cottage
+    probability: 1
+  - name: Froki's Shack
+    probability: 1
+  - name: Hall of the Vigilant
+    probability: 1
+  - name: Hrodulf's House
+    probability: 1
+  - name: Hunter's Rest
+    probability: 1
+  - name: Ironback Hideout
+    probability: 1
+  - name: Lund's Hut
+    probability: 1
+  - name: Meeko's Shack
+    probability: 1
+  - name: Pinewatch
+    probability: 1
+  - name: Ramshackle Trading Post
+    probability: 1
+  - name: Redwater Den
+    probability: 1
+  - name: Riverside Shack
+    probability: 1
+  - name: Traitor's Post
+    probability: 1
+  - name: East Empire Company Warehouse
+    probability: 1
+  - name: Icewater Jetty
+    probability: 1
+  - name: Northshore Landing
+    probability: 1
+  - name: Riften Docks
+    probability: 1
+  - name: Frostflow Lighthouse
+    probability: 1
+  - name: Solitude Lighthouse
+    probability: 1
+  - name: Bujold's Retreat
+    probability: 1
+  - name: Dragon Bridge Overlook
+    probability: 1
+  - name: Druadach Redoubt
+    probability: 1
+  - name: Haknir's Shoal
+    probability: 1
+  - name: Halted Stream Camp
+    probability: 1
+  - name: Karthspire
+    probability: 1
+  - name: Knifepoint Ridge
+    probability: 1
+  - name: Last Vigil
+    probability: 1
+  - name: Robber's Gorge
+    probability: 1
+  - name: Serpent's Bluff Redoubt
+    probability: 1
+  - name: Ashfall's Tear
+    probability: 1
+  - name: Benkongerike
+    probability: 1
+  - name: Blackbone Isle Grotto
+    probability: 1
+  - name: Bleakcoast Cave
+    probability: 1
+  - name: Blind Cliff Cave
+    probability: 1
+  - name: Bloated Man's Grotto
+    probability: 1
+  - name: Bloodchill Cavern
+    probability: 1
+  - name: Bonechill Passage
+    probability: 1
+  - name: Boulderfall Cave
+    probability: 1
+  - name: Bristleback Cave
+    probability: 1
+  - name: Brinewater Grotto
+    probability: 1
+  - name: Brittleshin Pass
+    probability: 1
+  - name: Broken Fang Cave
+    probability: 1
+  - name: Broken Helm Hollow
+    probability: 1
+  - name: Broken Oar Grotto
+    probability: 1
+  - name: Bronze Water Cave
+    probability: 1
+  - name: Brood Cavern
+    probability: 1
+  - name: Bruca's Leap Redoubt
+    probability: 1
+  - name: Castle Karstaag Caverns
+    probability: 1
+  - name: Castle Karstaag Ruins
+    probability: 1
+  - name: Chillwind Depths
+    probability: 1
+  - name: Clearspring Cave
+    probability: 1
+  - name: Cold Rock Pass
+    probability: 1
+  - name: Coldcinder Cave
+    probability: 1
+  - name: Cragslane Cavern
+    probability: 1
+  - name: Cragswallow Slope
+    probability: 1
+  - name: Cronvangr Cave
+    probability: 1
+  - name: Crystaldrift Cave
+    probability: 1
+  - name: Darkfall Cave
+    probability: 1
+  - name: Darkfall Passage
+    probability: 1
+  - name: Darkshade
+    probability: 1
+  - name: Darkwater Pass
+    probability: 1
+  - name: Dimhollow Crypt
+    probability: 1
+  - name: Duskglow Crevice
+    probability: 1
+  - name: Eldergleam Sanctuary
+    probability: 1
+  - name: Fallowstone Cave
+    probability: 1
+  - name: Forebears' Holdout
+    probability: 1
+  - name: Forsaken Cave
+    probability: 1
+  - name: Frossel
+    probability: 1
+  - name: Frostmoon Crag
+    probability: 1
+  - name: Frostroot Cave
+    probability: 1
+  - name: Glacial Cave
+    probability: 1
+  - name: Glenmoril Coven
+    probability: 1
+  - name: Gloomreach
+    probability: 1
+  - name: Graywinter Watch
+    probability: 1
+  - name: Greywater Grotto
+    probability: 1
+  - name: Gromm's Pass
+    probability: 1
+  - name: Haemar's Shame
+    probability: 1
+  - name: Halldir's Cairn
+    probability: 1
+  - name: Hob's Fall Cave
+    probability: 1
+  - name: Honeystrand Cave
+    probability: 1
+  - name: Hrothmund's Barrow
+    probability: 1
+  - name: Iron Tusk Cave
+    probability: 1
+  - name: Liar's Retreat
+    probability: 1
+  - name: Lost Echo Cave
+    probability: 1
+  - name: Lost Knife Hideout
+    probability: 1
+  - name: Mara's Eye Den
+    probability: 1
+  - name: Moss Mother Cavern
+    probability: 1
+  - name: Movarth's Lair
+    probability: 1
+  - name: Nightingale Hall
+    probability: 1
+  - name: Orotheim
+    probability: 1
+  - name: Pinemoon Cave
+    probability: 1
+  - name: Pinepeak Cavern
+    probability: 1
+  - name: Purewater Run
+    probability: 1
+  - name: Ravenscar Hollow
+    probability: 1
+  - name: Reachcliff Cave
+    probability: 1
+  - name: Reachwater Rock
+    probability: 1
+  - name: Rebel's Cairn
+    probability: 1
+  - name: Red Eagle Redoubt
+    probability: 1
+  - name: Redoran's Retreat
+    probability: 1
+  - name: Rimerock Burrow
+    probability: 1
+  - name: Runoff Caverns
+    probability: 1
+  - name: Ruunvald Excavation
+    probability: 1
+  - name: Septimus Signus' Outpost
+    probability: 1
+  - name: Shadowgreen Cavern
+    probability: 1
+  - name: Shimmermist Cave
+    probability: 1
+  - name: Sightless Pit
+    probability: 1
+  - name: Snapleg Cave
+    probability: 1
+  - name: Soljund's Sinkhole
+    probability: 1
+  - name: Southfringe Sanctum
+    probability: 1
+  - name: Steepfall Burrow
+    probability: 1
+  - name: Stillborn Cave
+    probability: 1
+  - name: Stony Creek Cave
+    probability: 1
+  - name: Sunderstone Gorge
+    probability: 1
+  - name: Swindler's Den
+    probability: 1
+  - name: Tolvald's Cave
+    probability: 1
+  - name: Uttering Hills Cave
+    probability: 1
+  - name: White River Watch
+    probability: 1
+  - name: Wolfskull Cave
+    probability: 1
+  - name: Yngvild
+    probability: 1
+  - name: Shrine of Azura
+    probability: 1
+  - name: Sacellum of Boethiah
+    probability: 1
+  - name: Haemar's Shame
+    probability: 1
+  - name: Giant's Grove
+    probability: 1
+  - name: Shrine of Mehrunes Dagon
+    probability: 1
+  - name: Statue to Meridia
+    probability: 1
+  - name: Abandoned House
+    probability: 1
+  - name: Reachcliff Cave
+    probability: 1
+  - name: Shrine of Nocturnal
+    probability: 1
+  - name: Shrine of Peryite
+    probability: 1
+  - name: Ancient's Ascent
+    probability: 1
+  - name: Autumnwatch Tower
+    probability: 1
+  - name: Bonestrewn Crest
+    probability: 1
+  - name: Dragontooth Crater
+    probability: 1
+  - name: Eldersblood Peak
+    probability: 1
+  - name: Lost Tongue Overlook
+    probability: 1
+  - name: Mount Anthor
+    probability: 1
+  - name: Northwing Summit
+    probability: 1
+  - name: Saering's Watch
+    probability: 1
+  - name: Shearpoint
+    probability: 1
+  - name: Skyborn Altar
+    probability: 1
+  - name: Alftand
+    probability: 1
+  - name: Arkngthamz
+    probability: 1
+  - name: Avanchnzel
+    probability: 1
+  - name: Blackreach
+    probability: 1
+  - name: Debate Hall
+    probability: 1
+  - name: Derelict Pumphouse
+    probability: 1
+  - name: Hall of Rumination
+    probability: 1
+  - name: Pumping Station
+    probability: 1
+  - name: Reeking Tower
+    probability: 1
+  - name: Silent City Catacombs
+    probability: 1
+  - name: Silent Ruin
+    probability: 1
+  - name: Sinderion's Field Labratory
+    probability: 1
+  - name: War Quarters
+    probability: 1
+  - name: Bthardamz
+    probability: 1
+  - name: Deep Folk Crossing
+    probability: 1
+  - name: Fahlbtharz
+    probability: 1
+  - name: Great Lift at Alftand
+    probability: 1
+  - name: Great Lift at Mzinchaleft
+    probability: 1
+  - name: Great Lift at Raldbthar
+    probability: 1
+  - name: Irkngthand
+    probability: 1
+  - name: Kagrenzel
+    probability: 1
+  - name: Kagrumez
+    probability: 1
+  - name: Mzinchaleft
+    probability: 1
+  - name: Mzulft
+    probability: 1
+  - name: Nchardak
+    probability: 1
+  - name: Nchuand-Zel
+    probability: 1
+  - name: Raldbthar
+    probability: 1
+  - name: Reachwind Eyrie
+    probability: 1
+  - name: Ruins of Bthalft
+    probability: 1
+  - name: Ruins of Rkund
+    probability: 1
+  - name: Tower of Mzark
+    probability: 1
+  - name: Bleakwind Basin
+    probability: 1
+  - name: Blizzard Rest
+    probability: 1
+  - name: Broken Limb Camp
+    probability: 1
+  - name: Cradlecrush Rock
+    probability: 1
+  - name: Guldun Rock
+    probability: 1
+  - name: Red Road Pass
+    probability: 1
+  - name: Secunda's Kiss
+    probability: 1
+  - name: Sleeping Tree Camp
+    probability: 1
+  - name: Steamcrag Camp
+    probability: 1
+  - name: Stonehill Bluff
+    probability: 1
+  - name: Talking Stone Camp
+    probability: 1
+  - name: Tumble Arch Pass
+    probability: 1
+  - name: Altar of Thrond
+    probability: 1
+  - name: Bard's Leap Summit
+    probability: 1
+  - name: Blackbone Isle
+    probability: 1
+  - name: Brodir Grove
+    probability: 1
+  - name: Deep Folk Crossing
+    probability: 1
+  - name: Druadach Mountains
+    probability: 1
+  - name: Frykte Peak
+    probability: 1
+  - name: Giant's Tooth
+    probability: 1
+  - name: Gjukar's Monument
+    probability: 1
+  - name: Horker Island
+    probability: 1
+  - name: Hvitkald Peak
+    probability: 1
+  - name: Jerall Mountains
+    probability: 1
+  - name: Mortrag Peak
+    probability: 1
+  - name: Mount Moesring
+    probability: 1
+  - name: Orphan Rock
+    probability: 1
+  - name: Reachwind Eyrie
+    probability: 1
+  - name: Ruins of Bthalft
+    probability: 1
+  - name: Ruins of Rkund
+    probability: 1
+  - name: Sky Haven Temple
+    probability: 1
+  - name: Stalhrim Source
+    probability: 1
+  - name: Throat of the World
+    probability: 1
+  - name: Velothi Mountains
+    probability: 1
+  - name: Weynon Stones
+    probability: 1
+  - name: Autumnshade Clearing
+    probability: 1
+  - name: Clearpine Pond
+    probability: 1
+  - name: Clearspring Tarn
+    probability: 1
+  - name: Headwaters of Harstrad
+    probability: 1
+  - name: Mara's Eye Pond
+    probability: 1
+  - name: Ancestor Glade
+    probability: 1
+  - name: Evergreen Grove
+    probability: 1
+  - name: Giant's Grove
+    probability: 1
+  - name: Greenspring Hollow Shrouded Grove
+    probability: 1
+  - name: Witchmist Grove
+    probability: 1
+  - name: Brittleshin Pass
+    probability: 1
+  - name: Cold Rock Pass
+    probability: 1
+  - name: Dunmeth Pass
+    probability: 1
+  - name: Moesring Pass
+    probability: 1
+  - name: Skybound Watch Pass
+    probability: 1
+  - name: Wayward Pass
+    probability: 1
+  - name: Eastmarch Imperial Camp
+    probability: 1
+  - name: Falkreath Imperial Camp
+    probability: 1
+  - name: Hjaalmarch Imperial Camp
+    probability: 1
+  - name: Pale Imperial Camp
+    probability: 1
+  - name: Reach Imperial Camp
+    probability: 1
+  - name: Rift Imperial Camp
+    probability: 1
+  - name: Whiterun Imperial Camp
+    probability: 1
+  - name: Windhelm Military Camp
+    probability: 1
+  - name: Winterhold Imperial Camp
+    probability: 1
+  - name: Falkreath Stormcloak Camp
+    probability: 1
+  - name: Haafingar Stormcloak Camp
+    probability: 1
+  - name: Hjaalmarch Stormcloak Camp
+    probability: 1
+  - name: Pale Stormcloak Camp
+    probability: 1
+  - name: Reach Stormcloak Camp
+    probability: 1
+  - name: Rift Stormcloak Camp
+    probability: 1
+  - name: Solitude Military Camp
+    probability: 1
+  - name: Whiterun Military Camp
+    probability: 1
+  - name: Whiterun Stormcloak Camp
+    probability: 1
+  - name: Winterhold Stormcloak Camp
+    probability: 1
+  - name: Fort Amol
+    probability: 1
+  - name: Fort Dunstad
+    probability: 1
+  - name: Fort Greenwall
+    probability: 1
+  - name: Fort Greymoor
+    probability: 1
+  - name: Fort Hraggstad
+    probability: 1
+  - name: Fort Kastav
+    probability: 1
+  - name: Fort Neugrad
+    probability: 1
+  - name: Fort Snowhawk
+    probability: 1
+  - name: Fort Sungard
+    probability: 1
+  - name: Castle Volkihar
+    probability: 1
+  - name: Volkihar Courtyard
+    probability: 1
+  - name: Volkihar Keep
+    probability: 1
+  - name: Fort Dawnguard
+    probability: 1
+  - name: High Hrothgar
+    probability: 1
+name: Skyrim Names
+source: null
+subsets: []

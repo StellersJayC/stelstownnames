@@ -128,6 +128,124 @@ mainset:
     probability: 1
   - name: Bis' Bakery
     probability: 1
+  - name: Mages College
+    probability: 1
+  - name: Magistrate's Court
+    probability: 1
+  - name: Malorie's Peak
+    probability: 1
+  - name: Malven
+    probability: 1
+  - name: Mantel and Pullet
+    probability: 1
+  - name: Market of Sorrows
+    probability: 1
+  - name: Marsh Hollow
+    probability: 1
+  - name: Masbolle
+    probability: 1
+  - name: Meron
+    probability: 1
+  - name: Mindelan
+    probability: 1
+  - name: Mulberry Way
+    probability: 1
+  - name: Mutt Piddle Lane
+    probability: 1
+  - name: Naxen's Fancy
+    probability: 1
+  - name: New Hope
+    probability: 1
+  - name: Nightmarket
+    probability: 1
+  - name: Northwatch Fortress
+    probability: 1
+  - name: Olau
+    probability: 1
+  - name: Outwalls Prison
+    probability: 1
+  - name: Owlshollow
+    probability: 1
+  - name: Palace District
+    probability: 1
+  - name: Patten District
+    probability: 1
+  - name: Pearlmouth
+    probability: 1
+  - name: Persopolis
+    probability: 1
+  - name: Pirate's Swoop
+    probability: 1
+  - name: Port Caynn
+    probability: 1
+  - name: Port Legann
+    probability: 1
+  - name: Prettybone District
+    probability: 1
+  - name: Provost's House
+    probability: 1
+  - name: Queenscove
+    probability: 1
+  - name: Queensgrace
+    probability: 1
+  - name: Raven Armory
+    probability: 1
+  - name: Riversedge
+    probability: 1
+  - name: Riverside District
+    probability: 1
+  - name: Royal Forest
+    probability: 1
+  - name: Runnerspring
+    probability: 1
+  - name: Seabeth and Seajen
+    probability: 1
+  - name: Sheepmire Tavern
+    probability: 1
+  - name: Sinthya
+    probability: 1
+  - name: South Hills District
+    probability: 1
+  - name: Starshine Warehouses
+    probability: 1
+  - name: Stone Mountain
+    probability: 1
+  - name: Summer Palace
+    probability: 1
+  - name: Sunset Room
+    probability: 1
+  - name: Tameran
+    probability: 1
+  - name: Temple District
+    probability: 1
+  - name: Three Rivers Province
+    probability: 1
+  - name: Tirragen
+    probability: 1
+  - name: Tirrsmont
+    probability: 1
+  - name: Tradesmen's District
+    probability: 1
+  - name: Trebond
+    probability: 1
+  - name: Two for One
+    probability: 1
+  - name: Unicorn District
+    probability: 1
+  - name: Unicorn Tavern
+    probability: 1
+  - name: Upmarket District
+    probability: 1
+  - name: Waterfront District
+    probability: 1
+  - name: Wellam
+    probability: 1
+  - name: Whitethorn
+    probability: 1
+  - name: Whitethorn Valley
+    probability: 1
+  - name: Yolen
+    probability: 1
 name: Tortall Names
 source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
 subsets: []
